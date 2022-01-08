@@ -3,7 +3,6 @@
     <output-path>$PROJECT_DIR$/out/artifacts/SilentKiller_jar</output-path>
     <root id="archive" name="SilentKiller.jar">
       <element id="module-output" name="SilentKiller" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../../Spigot Jar/spigot-1.17.1.jar" path-in-jar="/" />
       <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
     </root>
   </artifact>
